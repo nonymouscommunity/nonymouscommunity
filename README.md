@@ -1,17 +1,3 @@
-<br/>
-<p align="center">
-  <a href="https://github.com/NonymousCommunity/Nonymous">
-    <img src="https://github.com/nonymouscommunity/nonymouscommunity/raw/main/3000(5)-modified.png" alt="Logo" width="80" height="80">
-  </a>
-  <h3 align="center">Nonymous Community</h3>
-  <p align="center">
-    We are cybersecurity enthusiasts and are providing free resources and community support to people who are aspiring to be in the field of cybersecurity.
-    <br/>
-    <a href="https://telegram.me/NonymousCommunity"><strong>Join Now »</strong></a>
-  </p>
-</p>
-
-
 ## About Us
 
 ![Screen Shot](https://raw.githubusercontent.com/nonymouscommunity/nonymouscommunity/main/Blue%20Pink%20Sunset%20Photo%20Liberation%20Day%20Facebook%20Cover.png)
