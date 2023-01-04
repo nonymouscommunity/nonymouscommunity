@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/NonymousCommunity/Nonymous">
-    <img src="https://raw.githubusercontent.com/nonymouscommunity/nonymouscommunity/main/image.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/nonymouscommunity/nonymouscommunity/raw/main/3000(5)-modified.png" alt="Logo" width="80" height="80">
   </a>
   <h3 align="center">Nonymous Community</h3>
   <p align="center">
